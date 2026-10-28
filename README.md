@@ -26,3 +26,18 @@ python bienvenido_jarvis.py
 - macOS
 - Python 3.9+
 - Micrófono
+
+<!-- HERDR-CONTEXT:START -->
+## Contexto del proyecto y clasificación en Herdr
+
+Automatización doméstica que detecta dos aplausos y ejecuta una bienvenida, música y apertura de aplicaciones.
+
+**Espacio:** `02 LAB | REV | Jarvis`. **Unidad:** Unidad pendiente de confirmar.
+
+### Clasificación
+
+La etiqueta LAB identifica una clasificación de catálogo pendiente de revalidación; no implica inactividad. REV significa unidad propietaria pendiente de confirmar. Los números ordenan navegación; no son un ranking de ingresos.
+
+Se conserva la documentación original y el crédito a sus autores. Esta sección no certifica disponibilidad actual ni modifica el runtime. Actualizada el 28-oct-2026.
+
+<!-- HERDR-CONTEXT:END -->
